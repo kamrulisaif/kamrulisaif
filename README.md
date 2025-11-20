@@ -4,7 +4,7 @@
 
 </div>
 
-![](https://github.com/kamrulisaif/kamrulisaif/blob/main/welcome1.png?raw=true)
+![](https://github.com/kamrulisaif/kamrulisaif/blob/main/Kamrul%20Saif.jpg?raw=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulisaif)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kamrulisaif)
@@ -24,7 +24,7 @@ Kamrul Islam-->
 
 ## 👤 About Me
 
-Hi, I'm **Md. Kamrul Islam**, currently pursuing a **B.Sc. in Zoology** at the **National University (NU)**.  
+Hi, I'm **Md. Kamrul Islam Saif**, currently pursuing a **B.Sc Hon's** at the **National University (NU), Bangladesh**.  
 I'm also a **dedicated full-time freelancer**, specializing in:
 
 - 🛠️ **WordPress Development**
@@ -50,7 +50,7 @@ You can expect from me:
 **Let’s build something great together!**
 
 Best regards,  
-**Kamrul Islam**
+**Kamrul Islam Saif**
 
 ---
 
@@ -62,8 +62,7 @@ You can find me on the following platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulisaif)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kamrulisaif)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kamrulisaif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdkamrulkhan995@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-kamrulisaif-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kamrulisaif@gmail.com)
 
 ---
 
